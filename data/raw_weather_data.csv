@@ -1,0 +1,141 @@
+city,local_datetime_raw,weather_condition,temperature_raw,daylight_saving,scraped_at_utc,city_url
+Accra,Sun 8:52 pm,Clear. Warm.,77 °F,False,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/ghana/accra
+Edmonton,Sun 2:52 pm,Passing clouds. Warm.,77 °F,True,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/canada/edmonton
+Nassau,Sun 4:52 pm,Passing clouds. Hot.,90 °F,True,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/bahamas/nassau
+Addis Ababa,Sun 11:52 pm,Overcast. Cool.,62 °F,False,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/ethiopia/addis-ababa
+Frankfurt,Sun 10:52 pm,Passing clouds. Refreshingly cool.,59 °F,True,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/germany/frankfurt
+New Delhi,Mon 2:22 am,Fog. Warm.,85 °F,False,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/india/new-delhi
+Adelaide,Mon 6:22 am,Cool.,59 °F,False,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/australia/adelaide
+Guatemala City,Sun 2:52 pm,Scattered clouds. Warm.,82 °F,False,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/guatemala/guatemala
+New Orleans,Sun 3:52 pm,Sunny. Hot.,92 °F,True,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/usa/new-orleans
+Algiers,Sun 9:52 pm,Partly sunny. Warm.,84 °F,False,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/algeria/algiers
+Halifax,Sun 5:52 pm,Sprinkles. Fog. Mild.,73 °F,True,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/canada/halifax
+New York,Sun 4:52 pm,Scattered clouds. Warm.,79 °F,True,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/usa/new-york
+Almaty,Mon 1:52 am,Partly cloudy. Mild.,64 °F,False,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/kazakstan/almaty
+Hanoi,Mon 3:52 am,Passing clouds. Warm.,77 °F,False,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/vietnam/hanoi
+Oslo,Sun 10:52 pm,Passing clouds. Cool.,55 °F,True,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/norway/oslo
+Amman,Sun 11:52 pm,Clear. Warm.,77 °F,False,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/jordan/amman
+Harare,Sun 10:52 pm,Clear. Mild.,68 °F,False,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/zimbabwe/harare
+Ottawa,Sun 4:52 pm,Broken clouds. Mild.,73 °F,True,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/canada/ottawa
+Amsterdam,Sun 10:52 pm,Passing clouds. Cool.,59 °F,True,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/netherlands/amsterdam
+Havana,Sun 4:52 pm,Passing clouds. Hot.,91 °F,True,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/cuba/havana
+Paris,Sun 10:52 pm,Clear. Mild.,66 °F,True,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/france/paris
+Anadyr,Mon 8:52 am,Rain showers. Overcast. Cool.,45 °F,False,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/russia/anadyr
+Helsinki,Sun 11:52 pm,Clear. Cool.,59 °F,True,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/finland/helsinki
+Perth,Mon 4:52 am,Clear. Cool.,46 °F,False,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/australia/perth
+Anchorage,Sun 12:52 pm,Passing clouds. Cool.,57 °F,True,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/usa/anchorage
+Hong Kong,Mon 4:52 am,Passing clouds. Warm.,86 °F,False,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/hong-kong/hong-kong
+Philadelphia,Sun 4:52 pm,Scattered clouds. Warm.,83 °F,True,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/usa/philadelphia
+Ankara,Sun 11:52 pm,Clear. Mild.,70 °F,False,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/turkey/ankara
+Honolulu,Sun 10:52 am,Scattered clouds. Warm.,87 °F,False,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/usa/honolulu
+Phoenix,Sun 1:52 pm,Scattered clouds. Extremely hot.,108 °F,False,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/usa/phoenix
+Antananarivo,Sun 11:52 pm,Passing clouds. Cool.,57 °F,False,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/madagascar/antananarivo
+Houston,Sun 3:52 pm,Scattered clouds. Extremely hot.,97 °F,True,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/usa/houston
+Prague,Sun 10:52 pm,Clear. Cool.,57 °F,True,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/czech-republic/prague
+Asuncion,Sun 5:52 pm,Sunny. Warm.,77 °F,False,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/paraguay/asuncion
+Indianapolis,Sun 4:52 pm,Scattered clouds. Warm.,79 °F,True,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/usa/indianapolis
+Reykjavik,Sun 8:52 pm,Scattered clouds. Refreshingly cool.,55 °F,False,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/iceland/reykjavik
+Athens,Sun 11:52 pm,Hot.,92 °F,True,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/greece/athens
+Islamabad,Mon 1:52 am,Passing clouds. Warm.,81 °F,False,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/pakistan/islamabad
+Rio de Janeiro,Sun 5:52 pm,More clouds than sun. Mild.,72 °F,False,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/brazil/rio-de-janeiro
+Atlanta,Sun 4:52 pm,Sunny. Hot.,89 °F,True,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/usa/atlanta
+Istanbul,Sun 11:52 pm,Clear. Mild.,75 °F,False,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/turkey/istanbul
+Riyadh,Sun 11:52 pm,Clear. Hot.,91 °F,False,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/saudi-arabia/riyadh
+Auckland,Mon 8:52 am,Clear. Cool.,55 °F,False,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/new-zealand/auckland
+Jakarta,Mon 3:52 am,Passing clouds. Mild.,76 °F,False,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/indonesia/jakarta
+Rome,Sun 10:52 pm,Passing clouds. Warm.,86 °F,True,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/italy/rome
+Baghdad,Sun 11:52 pm,Sunny. Extremely hot.,110 °F,False,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/iraq/baghdad
+Jerusalem,Sun 11:52 pm,Mild.,73 °F,True,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/israel/jerusalem
+Salt Lake City,Sun 2:52 pm,Scattered clouds. Hot.,90 °F,True,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/usa/salt-lake-city
+Bangkok,Mon 3:52 am,Passing clouds. Warm.,82 °F,False,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/thailand/bangkok
+Johannesburg,Sun 10:52 pm,Clear. Refreshingly cool.,62 °F,False,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/south-africa/johannesburg
+San Francisco,Sun 1:52 pm,Partly sunny. Mild.,76 °F,True,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/usa/san-francisco
+Barcelona,Sun 10:52 pm,Passing clouds. Warm.,82 °F,True,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/spain/barcelona
+Karachi,Mon 1:52 am,Partly cloudy. Warm.,82 °F,False,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/pakistan/karachi
+San Juan,Sun 4:52 pm,Scattered clouds. Warm.,87 °F,False,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/puerto-rico/san-juan
+Beijing,Mon 4:52 am,Thunderstorms. Partly cloudy. Mild.,73 °F,False,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/china/beijing
+Kathmandu,Mon 2:37 am,Partly cloudy. Mild.,72 °F,False,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/nepal/kathmandu
+San Salvador,Sun 2:52 pm,Passing clouds. Warm.,88 °F,False,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/el-salvador/san-salvador
+Belgrade,Sun 10:52 pm,Clear. Mild.,72 °F,True,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/serbia/belgrade
+Kingston,Sun 3:52 pm,Warm.,87 °F,False,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/jamaica/kingston
+Santiago,Sun 4:52 pm,Sunny. Cool.,61 °F,False,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/chile/santiago
+Bengaluru,Mon 2:22 am,Passing clouds. Mild.,70 °F,False,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/india/bengaluru
+Kinshasa,Sun 9:52 pm,Passing clouds. Warm.,79 °F,False,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/congo-demrep/kinshasa
+Santo Domingo,Sun 4:52 pm,Partly sunny. Hot.,89 °F,False,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/dominican-republic/santo-domingo
+Berlin,Sun 10:52 pm,Clear. Cool.,55 °F,True,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/germany/berlin
+Kiritimati,Mon 10:52 am,Overcast. Warm.,78 °F,False,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/kiribati/kiritimati
+São Paulo,Sun 5:52 pm,Passing clouds. Mild.,63 °F,False,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/brazil/sao-paulo
+Bogota,Sun 3:52 pm,Scattered clouds. Mild.,64 °F,False,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/colombia/bogota
+Kolkata,Mon 2:22 am,Passing clouds. Warm.,82 °F,False,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/india/kolkata
+Seattle,Sun 1:52 pm,Scattered clouds. Mild.,73 °F,True,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/usa/seattle
+Boston,Sun 4:52 pm,Broken clouds. Mild.,69 °F,True,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/usa/boston
+Kuala Lumpur,Mon 4:52 am,Passing clouds. Warm.,79 °F,False,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/malaysia/kuala-lumpur
+Seoul,Mon 5:52 am,Clear. Mild.,75 °F,False,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/south-korea/seoul
+Brasilia,Sun 5:52 pm,Scattered clouds. Pleasantly warm.,88 °F,False,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/brazil/brasilia
+Kuwait City,Sun 11:52 pm,Passing clouds. Extremely hot.,109 °F,False,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/kuwait/kuwait-city
+Shanghai,Mon 4:52 am,Passing clouds. Warm.,82 °F,False,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/china/shanghai
+Brisbane,Mon 6:52 am,Cool.,59 °F,False,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/australia/brisbane
+Kyiv,Sun 11:52 pm,Clear. Mild.,69 °F,True,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/ukraine/kyiv
+Singapore,Mon 4:52 am,Passing clouds. Warm.,82 °F,False,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/singapore/singapore
+Brussels,Sun 10:52 pm,Clear. Cool.,59 °F,True,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/belgium/brussels
+La Paz,Sun 4:52 pm,Thundershowers. Partly sunny. Cool.,49 °F,False,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/bolivia/la-paz
+Sofia,Sun 11:52 pm,Passing clouds. Warm.,79 °F,True,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/bulgaria/sofia
+Bucharest,Sun 11:52 pm,Clear. Mild.,75 °F,True,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/romania/bucharest
+Lagos,Sun 9:52 pm,Scattered clouds. Warm.,77 °F,False,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/nigeria/lagos
+St. John's,Sun 6:22 pm,Partly sunny. Mild.,64 °F,True,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/canada/st-johns
+Budapest,Sun 10:52 pm,Clear. Mild.,68 °F,True,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/hungary/budapest
+Lahore,Mon 1:52 am,Passing clouds. Warm.,88 °F,False,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/pakistan/lahore
+Stockholm,Sun 10:52 pm,Passing clouds. Cool.,61 °F,True,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/sweden/stockholm
+Buenos Aires,Sun 5:52 pm,Passing clouds. Cool.,50 °F,False,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/argentina/buenos-aires
+Las Vegas,Sun 1:52 pm,Passing clouds. Extremely hot.,102 °F,True,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/usa/las-vegas
+Suva,Mon 8:52 am,Overcast. Mild.,70 °F,False,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/fiji/suva
+Cairo,Sun 11:52 pm,Clear. Warm.,84 °F,True,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/egypt/cairo
+Lima,Sun 3:52 pm,Scattered clouds. Mild.,77 °F,False,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/peru/lima
+Sydney,Mon 6:52 am,Sunny. Cool.,57 °F,False,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/australia/sydney
+Calgary,Sun 2:52 pm,Scattered clouds. Pleasantly warm.,81 °F,True,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/canada/calgary
+Lisbon,Sun 9:52 pm,Partly cloudy. Mild.,72 °F,True,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/portugal/lisbon
+Taipei,Mon 4:52 am,Light rain. Passing clouds. Warm.,84 °F,False,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/taiwan/taipei
+Canberra,Mon 6:52 am,Clear. Chilly.,34 °F,False,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/australia/canberra
+London,Sun 9:52 pm,Clear. Mild.,64 °F,True,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/uk/london
+Tallinn,Sun 11:52 pm,Clear. Cool.,61 °F,True,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/estonia/tallinn
+Cape Town,Sun 10:52 pm,Clear. Cool.,57 °F,False,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/south-africa/cape-town
+Los Angeles,Sun 1:52 pm,Sunny. Warm.,87 °F,True,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/usa/los-angeles
+Tashkent,Mon 1:52 am,Clear. Mild.,76 °F,False,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/uzbekistan/tashkent
+Caracas,Sun 4:52 pm,Passing clouds. Extremely hot.,93 °F,False,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/venezuela/caracas
+Madrid,Sun 10:52 pm,Clear. Pleasantly warm.,81 °F,True,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/spain/madrid
+Tegucigalpa,Sun 2:52 pm,Passing clouds. Warm.,86 °F,False,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/honduras/tegucigalpa
+Casablanca,Sun 9:52 pm,Mild.,73 °F,True,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/morocco/casablanca
+Managua,Sun 2:52 pm,Partly sunny. Warm.,88 °F,False,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/nicaragua/managua
+Tehran,Mon 12:22 am,Clear. Pleasantly warm.,88 °F,False,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/iran/tehran
+Chicago,Sun 3:52 pm,Partly sunny. Mild.,74 °F,True,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/usa/chicago
+Manila,Mon 4:52 am,Overcast. Warm.,82 °F,False,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/philippines/manila
+Tokyo,Mon 5:52 am,Overcast. Warm.,78 °F,False,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/japan/tokyo
+Copenhagen,Sun 10:52 pm,Passing clouds. Cool.,61 °F,True,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/denmark/copenhagen
+Melbourne,Mon 6:52 am,Clear. Cool.,50 °F,False,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/australia/melbourne
+Toronto,Sun 4:52 pm,Partly sunny. Mild.,64 °F,True,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/canada/toronto
+Dallas,Sun 3:52 pm,Partly sunny. Extremely hot.,106 °F,True,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/usa/dallas
+Mexico City,Sun 2:52 pm,Overcast. Mild.,68 °F,False,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/mexico/mexico-city
+Vancouver,Sun 1:52 pm,Light rain. Fog. Mild.,63 °F,True,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/canada/vancouver
+Dar es Salaam,Sun 11:52 pm,Passing clouds. Mild.,75 °F,False,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/tanzania/dar-es-salaam
+Miami,Sun 4:52 pm,Rain. Cloudy. Warm.,80 °F,True,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/usa/miami
+Vienna,Sun 10:52 pm,Passing clouds. Mild.,66 °F,True,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/austria/vienna
+Darwin,Mon 6:22 am,Clear. Mild.,72 °F,False,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/australia/darwin
+Minneapolis,Sun 3:52 pm,Scattered clouds. Mild.,76 °F,True,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/usa/minneapolis
+Warsaw,Sun 10:52 pm,Clear. Cool.,55 °F,True,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/poland/warsaw
+Denver,Sun 2:52 pm,Broken clouds. Hot.,90 °F,True,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/usa/denver
+Minsk,Sun 11:52 pm,Clear. Cool.,59 °F,False,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/belarus/minsk
+Washington DC,Sun 4:52 pm,Scattered clouds. Pleasantly warm.,84 °F,True,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/usa/washington-dc
+Detroit,Sun 4:52 pm,Broken clouds. Mild.,76 °F,True,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/usa/detroit
+Montevideo,Sun 5:52 pm,Partly sunny. Cool.,46 °F,False,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/uruguay/montevideo
+Winnipeg,Sun 3:52 pm,Mild.,77 °F,True,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/canada/winnipeg
+Dhaka,Mon 2:52 am,Passing clouds. Warm.,84 °F,False,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/bangladesh/dhaka
+Montréal,Sun 4:52 pm,Scattered showers. Partly sunny. Mild.,68 °F,True,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/canada/montreal
+Yangon,Mon 3:22 am,Mostly cloudy. Warm.,79 °F,False,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/myanmar/yangon
+Doha,Sun 11:52 pm,Clear. Extremely hot.,95 °F,False,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/qatar/doha
+Moscow,Sun 11:52 pm,Clear. Mild.,64 °F,False,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/russia/moscow
+Zagreb,Sun 10:52 pm,Clear. Mild.,68 °F,True,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/croatia/zagreb
+Dubai,Mon 12:52 am,Passing clouds. Extremely hot.,102 °F,False,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/united-arab-emirates/dubai
+Mumbai,Mon 2:22 am,Passing clouds. Warm.,84 °F,False,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/india/mumbai
+Zürich,Sun 10:52 pm,Clear. Mild.,64 °F,True,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/switzerland/zurich
+Dublin,Sun 9:52 pm,Passing clouds. Cool.,50 °F,True,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/ireland/dublin
+Nairobi,Sun 11:52 pm,Passing clouds. Mild.,66 °F,False,2026-08-23T20:52:09+00:00,https://www.timeanddate.com/weather/kenya/nairobi
