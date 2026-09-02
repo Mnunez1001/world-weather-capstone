@@ -201,7 +201,7 @@ http://localhost:8501
 
 The public Streamlit dashboard is available here:
 
-[Open the World Weather Dashboard](<streamlit-application-url>)
+[Open the World Weather Dashboard](https://world-weather-capstone-alexnunez.streamlit.app/)
 
 ## Limitations
 
